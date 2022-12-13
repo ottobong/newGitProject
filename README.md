@@ -7,3 +7,7 @@ This project is meant for beginners
 - This is the header feature?
 - Call-to-action button
 - Nav Menu
+
+# Hero Section
+- Hero text
+- Call to action
